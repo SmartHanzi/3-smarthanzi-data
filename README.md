@@ -1,4 +1,4 @@
-# 4-smarthanzi-data
+# 4-smarthanzi-admin
 
 - Install MySQL (version?), default charset=utf-8.
 - Restore shared data bases.
